@@ -34,7 +34,7 @@ function setSquare(thisSquare){
 }
 
 function getNewNum() {
-  return Math.floor(Math.random() * 26);
+  return Math.floor(Math.random() * 27);
 }
 
 function anotherCard() {
