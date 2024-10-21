@@ -32,3 +32,6 @@ th, td {
 	background-color: #095BAB;
 	color: white;
 }
+
+a { color: #001f42; font-weight: 600; text-decoration: underline;}
+a:hover { color: #095BAB;}
