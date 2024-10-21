@@ -5,7 +5,7 @@ options.push("Fill out your bio in the people directory","Tag yourself with at l
 
 function initAll() {
   if (document.getElementById) {
-    document.getElementById("reload").onclick = anotherCard;
+    //document.getElementById("reload").onclick = anotherCard;
     newCard();
   }
   else{
