@@ -40,4 +40,5 @@ a:hover { color: #095BAB;}
 	#free { font-weight: bold; color: #000000;}
 	.hide {display: none;}
 	.unhide {display:block}
+	th, td {padding:10px;}
 }
