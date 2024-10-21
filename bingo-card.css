@@ -3,7 +3,7 @@
 body {
 	background-color: white;
 	color: black;
-	font-size: 20px;
+	font-size: 15px;
 	font-family: "Source Sans 3", sans-serif;
 }
 
@@ -23,7 +23,7 @@ th, td {
 	padding: 5px;
 	border: 2px #666 solid;
 	text-align: center;
-	font-size: 16px;
+	font-size: 15px;
 }
 
 #free {
@@ -35,7 +35,6 @@ a { color: #001f42; font-weight: 600; text-decoration: underline;}
 a:hover { color: #095BAB;}
 
 @media print {
-	th, td {font-size: 18px;}
 	#free { font-weight: bold; color: #000000;}
 	.hide {display: none;}
 }
