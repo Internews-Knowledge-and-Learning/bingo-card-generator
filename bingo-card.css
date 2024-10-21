@@ -38,4 +38,5 @@ a:hover { color: #095BAB;}
 
 @media print {
 	th, td {font-size: 18px;}
+	#free { font-weight: bold; color: #000000;}
 }
