@@ -35,3 +35,7 @@ th, td {
 
 a { color: #001f42; font-weight: 600; text-decoration: underline;}
 a:hover { color: #095BAB;}
+
+@media print {
+	th, td {font-size: 18px;}
+}
