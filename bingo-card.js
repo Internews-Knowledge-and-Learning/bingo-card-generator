@@ -2,6 +2,7 @@ window.onload = initAll;
 var usedNums = new Array();
 const options = [];
 options.push("Someone (not you) rocks out to intro music on camera",
+             "You have successfully completed your mandatory Cybersecurity training on the Studio",
              "Someone screenshares the wrong screen",
              "Someone uses an acronym you've never heard before",
              "Fill out your bio in the people directory",
