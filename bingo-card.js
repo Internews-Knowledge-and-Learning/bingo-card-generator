@@ -1,8 +1,8 @@
 window.onload = initAll;
 var usedNums = new Array();
 const options = [];
-options.push("Someone (not you) rocks out to intro music on camera",
-             "You have successfully completed your mandatory Cybersecurity training on the Studio",
+options.push("Someone (not you) rocks out to session intro music on camera",
+             "You are up-to-date on all your mandatory training on the Studio",
              "Someone screenshares the wrong screen",
              "Someone uses an acronym you've never heard before",
              "You have filled out your bio in the people directory",
@@ -33,6 +33,10 @@ options.push("Someone (not you) rocks out to intro music on camera",
              "You get recognized for having a notable work anniversary!",
              "You submitted an Around Your Block entry",
              "You told a story in one of the storytelling sessions",
+             "You submitted an idiom for the 'Who says that?' session",
+             "You submit a reflection for the 'You didn't choose to be in this club' session",
+             "You submitted a session idea (whether or not it ended up in the agenda for this year)",
+             "You answer an icebreaker question in at least two sessions",
              "You showcased your hidden talent in the talent show");
 var count = Object.keys(options).length;
 
